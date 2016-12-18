@@ -12,5 +12,5 @@
 	$somethingInstance	=	new EchoSomething();
 	$messages[] = $somethingInstance->something;
 
-	require_once( 'voorbeeld-autoload-view.php' );
+	// require_once( 'voorbeeld-autoload-view.php' );
 ?>
