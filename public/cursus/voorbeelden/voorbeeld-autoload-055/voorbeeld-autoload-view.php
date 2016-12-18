@@ -1,3 +1,7 @@
+<?php
+  require_once( 'voorbeeld-autoload.php' );
+?>
+
 <!doctype html>
 <html>
 <head>
